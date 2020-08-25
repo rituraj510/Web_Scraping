@@ -1,5 +1,5 @@
 # Web_Scraping
-Web Scraping using Scrapy
+Web Scraping using Scrapy and storing the data in MongoDB
 
 "HackerNews" folder contains all the code for scraping the website "https://news.ycombinator.com/"
 
